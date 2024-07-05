@@ -1,0 +1,3 @@
+letter="Dear OM CONGRATS YOUY ARE SELECTED THANK YOU"
+f_letter="\nDear OM\n\tCONGRATS YOUY ARE SELECTED \nTHANK YOU"
+print(f_letter)

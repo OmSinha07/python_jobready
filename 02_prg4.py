@@ -1,0 +1,6 @@
+a=input("enter a number")
+b=input("enter a number")
+a=int(a)
+b=int(b)
+z =(a>b)
+print(z,"a is greater")

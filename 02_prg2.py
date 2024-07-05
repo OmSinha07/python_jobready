@@ -1,0 +1,6 @@
+a=input("enter number")
+z=input("enter number")
+a=int(a)
+z=int(z)
+print(type(a))
+print(a%z)
